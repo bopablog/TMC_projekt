@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MapView">
+        <attr name="zoomLevel" format="integer" />
+        <attr name="marker" format="reference" />
+    </declare-styleable>
+</resources>
